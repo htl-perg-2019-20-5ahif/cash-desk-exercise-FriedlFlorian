@@ -150,7 +150,6 @@ namespace CashDesk
         public DuplicateNameException() { }
     }
     #endregion 
-
     /// <summary>
     /// Implements the data access layer
     /// </summary>
